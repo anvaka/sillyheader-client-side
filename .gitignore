@@ -11,5 +11,7 @@ pids
 logs
 results
 
+bundle.js
+bundle.css
 npm-debug.log
 node_modules
