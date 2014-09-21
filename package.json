@@ -1,0 +1,20 @@
+{
+  "name": "sillyheader-client-side",
+  "version": "0.0.0",
+  "description": "Demo of how to use sillyheader on the client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "css",
+    "browserify"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/sillyheader-client-side"
+  }
+}
