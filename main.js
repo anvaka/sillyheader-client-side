@@ -1,7 +1,7 @@
 var HeaderComponent = require('sillyheader');
 
-var helloWorld = new HeaderComponent(document.body);
+var eye = new HeaderComponent(document.body);
 
-helloWorld.on('click', function () {
-  new HeaderComponent(document.body);
-});
+document.body.addEventListener('mousemove', function (e) {
+  eye.lookAt(e.clientX, e.clientY);
+}, false);
