@@ -19,7 +19,7 @@
     "url": "https://github.com/anvaka/sillyheader-client-side"
   },
   "dependencies": {
-    "sillyheader": "0.0.0"
+    "sillyheader": "0.0.1"
   },
   "devDependencies": {
     "parcelify": "^0.12.3"
