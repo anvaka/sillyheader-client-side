@@ -1,6 +1,6 @@
 # sillyheader-client-side
 
-Demo of how to use sillyheader on the client side
+Please ignore this one in favor of https://github.com/anvaka/looker-on
 
 # install
 
